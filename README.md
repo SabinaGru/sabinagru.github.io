@@ -33,8 +33,6 @@ Insert Bio here
 
 ### 🤖 Machine Learning
 
-#### Neuronal Network
-- Classify hand written digits
 
 
 
